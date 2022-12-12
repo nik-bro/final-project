@@ -2,7 +2,9 @@
 title: "Final Writeup"
 author: "Nik"
 date: "2022-12-10"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -27,8 +29,9 @@ In more recent work, Gilbert writes: “the ontological basis of the organism is
 
 Gilbert is a developmental biologist with an interest in immunology (hence “evo-eco-devo”) - therefore his work begins at the scale of the conventional organism, and looks inwards for ecology - “ecological dialectics “all-the-way-down.”” I’m an ecologist, so I’m more interested in the inverse - that is to say, evolutionary selection “all-the-way-up.” To put it more explicitly, I’m interested in these questions:
 
-What would it mean to say that evolution acts upon an ecosystem?
-How would one model concatenated evolutionary systems - i.e. evolving systems that are environments relative to their constituents?
+1. What would it mean to say that evolution acts upon an ecosystem?
+
+2. How would one model concatenated evolutionary systems - i.e. evolving systems that are environments relative to their constituents?
 
 It might feel like there’s a clear difference between a host and its endosymbionts and a traditional ecosystem, but in terms of their abstract relationships to evolutionary selection, I’m not at all convinced that there is. If we accept that selection can act on the holobiont, we are accepting that selection acts on the higher-order biological unit formed by the relationships between interacting constituents of different species. It’s not clear to me why those dynamics should stop at the edge of the holobiont host’s boundary. 
 
@@ -50,7 +53,9 @@ To expand these to generalizable models of ecosystem evolution, the main feature
 
 In Andrea Wulf’s book The Invention of Nature, (2015) she describes 18th century naturalist Alexander von Humboldt’s as the first (at least in the European tradition) to view ‘nature’ as an interconnected system. The naturalists of that era focused primarily on describing the complexity  of the natural world. With the advent of genetics, biology took a reductionist, gene-oriented turn, which reached its peak in both academic and popular circles in the aftermath of the publication of Dawkins’s tragically popular book The Selfish Gene. Reductionism in biology focused on developing simple explanations of natural phenomena based on abstract simplification and reasoning from first principles. In the past several decades, however, there has been increased acknowledgment that the roles of complexity and emergent properties are of critical importance in almost every area of biology (Mitchell, 2009). 
 
-I give this crudely oversimplified history of biological perspectives to provide context for the following point: It has become increasingly clear that the designation of the ‘individual’ organism is largely arbitrary, yet our basic approach to evolution and ecology relies upon it.  As Gilbert bombastically puts it, “most (if not all) ‘‘individual’’ animals are increasingly appreciated as being organized consortia of hundreds of species living in a symbiotic commune (Gilbert & Tauber, 2016).” While the discrete organism is a convenient abstraction and allows description of many biologically interesting dynamics, it is not ‘real’ in a meaningful sense. It’s worth asking what it would mean to move towards a view of biology that embraces ubiquitously disoriented systems approach, with self-ness as a gradient as opposed to a binary property. 
+I give this crudely oversimplified history of biological perspectives to provide context for the following point: It has become increasingly clear that the designation of the ‘individual’ organism is largely arbitrary, yet our basic approach to evolution and ecology relies upon it.  As Gilbert bombastically puts it, “most (if not all) ‘‘individual’’ animals are increasingly appreciated as being organized consortia of hundreds of species living in a symbiotic commune (Gilbert & Tauber, 2016).” While the discrete organism is a convenient abstraction and allows description of many biologically interesting dynamics, it is not ‘real’ in a meaningful sense. It’s worth asking what it would mean to move towards a view of biology that embraces a ubiquitously disoriented systems approach, with self-ness as a gradient as opposed to a binary property. 
+
+\newpage
 
 ## Bibliography
 
